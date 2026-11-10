@@ -1,7 +1,7 @@
 // ─────────────────────────────────────────────────────────────
 //  Edit everything about your invitation here.
 //  To use your own pictures: put them in /public/photos and
-//  reference them like "/photos/hero.jpg".
+//  reference them like "photos/hero.jpg" (no leading slash).
 // ─────────────────────────────────────────────────────────────
 
 const config = {
