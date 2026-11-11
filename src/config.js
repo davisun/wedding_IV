@@ -48,7 +48,7 @@ const config = {
 
   // Gallery pictures (any number). Captions are optional.
   gallery: [
-    { src: 'https://picsum.photos/seed/g1/900/1200', caption: 'The first trip' },
+    { src: 'photos/pic1.jpeg' },
     { src: 'https://picsum.photos/seed/g2/1200/800', caption: 'Sunday mornings' },
     { src: 'https://picsum.photos/seed/g3/900/900' },
     { src: 'https://picsum.photos/seed/g4/900/1300', caption: 'The proposal' },
